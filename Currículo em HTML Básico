@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Currículo</title>
+	<meta charset="utf-8">
+</head>
+	<h1>Danny Sullivan</h1>
+	<p><strong>Cidade:</strong> Campinas</p>
+	<p><strong>Telefone</strong> (19) 98748-1017</p>
+	<p><strong>E-mail:</strong>  <a href="mailto:danielsullivan45@gmail.com">danielsullivan45@gmail.com</a> </p>
+	<p></p>
+	<hr>
+
+	<h3>Objetivo</h3>
+	<p>Estagiar na área de suporte técnico ou desenvolvimento web.</p>
+
+	<p></p>
+	<hr>
+
+	<h3>Formação</h3>
+	<p><strong>Graduação em Jornalismo</strong></p>
+	<p>Universidade Federal do Amazonas</p>
+	<p><strong>Graduação em Análise e Desenvolvimento de Sistemas</strong></p>
+	<p>Instituto Federal de São Paulo - Campus Campinas</p>
+	<p>Previsão de formação: Dez/2023</p>
+
+	<p></p>
+	<hr>
+
+	<h3>Experiência</h3>
+	<img src="https://neilpatel.com/wp-content/uploads/2019/07/ilustracao-representando-laptop-com-megafone-em-te.jpeg" width="150">
+	<p><strong>Redator Publicitário - Duet Comunicação</strong></p>
+	<p>Atendimento, redação publicitária, social media e implementação de campanhas.</p>
+	<p> <a href="https://www.clippings.me/users/damnsullivan">Portifólio</a> </p>	
+
+	<p></p>
+	<hr>
+
+	<h3>Habilidades</h3>
+	<ul>
+		<li>Inglês Intermediário</li>
+		<li>Lógica de Programação</li>
+		<li>Linguagem C</li>
+		<li>HTML Básico</li>
+	</ul>
+
+
+
+
+
+<body>
+
+</body>
+</html>
